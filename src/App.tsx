@@ -29,7 +29,7 @@ function App() {
               <span>Solution de visibilité pour professionnels</span>
             </div>
             <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-gray-900 mb-6 leading-tight">
-              Boostez votre visibilité,
+              Augmentez votre image,
               <span className="bg-gradient-to-r from-emerald-600 to-teal-600 bg-clip-text text-transparent"> multipliez vos clients</span>
             </h1>
             <p className="text-xl sm:text-2xl text-gray-600 mb-10 leading-relaxed">
